@@ -1,0 +1,35 @@
+
+header{
+    margin: 10px;
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+}
+textarea,div{
+    text-overflow: clip;
+    padding: 5px;
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+    border-radius: 15px;
+    border-width: 5px;
+}
+section,span{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(30, 227, 245);
+}
+.button{
+    margin: 5px;
+    width: 50px;
+    height: 50px;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    border-radius: 50%;
+    text-align: center;
+    justify-items: center;
+
+}
